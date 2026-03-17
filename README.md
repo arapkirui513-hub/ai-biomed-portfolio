@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arap Kirui
+# 👋 Hi, I'm Kevin Kirui
 
 I am a biomedical engineering student based in Kenya, self-studying AI and machine learning with a focus on healthcare applications. I am preparing for the **Stanmore Professional Certificate in AI for Biomedical Engineering**, and this portfolio documents everything I build along the way.
 
