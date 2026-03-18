@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Kirui
 
-I am a biomedical engineering student based in Kenya, self-studying AI and machine learning with a focus on healthcare applications. I am preparing for the **Stanmore Professional Certificate in AI for Biomedical Engineering**, and this portfolio documents everything I build along the way.
+I am a biomedical engineer based in Kenya, self-studying AI and machine learning with a focus on healthcare applications. I am preparing for the **Stanmore Professional Certificate in AI for Biomedical Engineering**, and this portfolio documents everything I build along the way.
 
 My goal is to arrive at Stanmore already thinking and working like a junior Medical AI Engineer — not as a beginner.
 
