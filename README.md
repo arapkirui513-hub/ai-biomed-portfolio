@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Kevin Kirui
-
 I am a biomedical engineer based in Kenya, self-studying AI and machine learning with a focus on healthcare applications. I am preparing for the **Stanmore Professional Certificate in AI for Biomedical Engineering**, and this portfolio documents everything I build along the way.
 
 My goal is to arrive at Stanmore already thinking and working like a junior Medical AI Engineer — not as a beginner.
+
+📍 Kenya · Open to remote collaboration and research opportunities
 
 ---
 
@@ -21,8 +22,9 @@ My goal is to arrive at Stanmore already thinking and working like a junior Medi
 Skills I have actively used in this portfolio (not just read about):
 
 - **Python** — pandas, NumPy, matplotlib
-- **Machine Learning** — scikit-learn, train/test splits, evaluation metrics
-- **Data Analysis** — EDA, summary statistics, visualisation
+- **Machine Learning** — scikit-learn, train/test splits, evaluation metrics (AUC, F1, confusion matrix)
+- **Deep Learning** — PyTorch, nn.Module, training loops, BCEWithLogitsLoss
+- **Data Analysis** — EDA, summary statistics, visualisation, class imbalance handling
 - **Tools** — Jupyter Notebook, Git, GitHub, Anaconda
 
 *Growing weekly — check back as new projects are added.*
@@ -33,26 +35,34 @@ Skills I have actively used in this portfolio (not just read about):
 
 | Resource | Topic | Progress |
 |----------|-------|----------|
-| [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python) | Python foundations | ✅ Week 1 complete |
+| [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python) | Python foundations | ✅ Complete |
+| [PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | PyTorch fundamentals | ✅ Complete |
 | [fast.ai Practical Deep Learning](https://course.fast.ai/) | Deep learning | 🔄 In progress |
 | [MONAI Tutorials](https://monai.io/start.html) | Medical imaging AI | 🔜 Starting Week 3 |
-| [PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | PyTorch fundamentals | 🔜 Starting Week 2 |
 
 ---
 
 ## 📁 Repository Structure
-
 ```
 ai-biomed-portfolio/
 │
-├── week1/                  # Python foundations & EDA
+├── week1/                        # Python foundations & EDA
 │   ├── week1_day2_functions.ipynb
 │   ├── week1_day3_data.ipynb
 │   ├── Week 1 Day 4,(2).ipynb
 │   └── Week1 Day5 EDA notebook with 3 plots and summary.ipynb
 │
-├── week2/                  # Intro to ML (coming soon)
-├── week3/                  # Medical imaging (coming soon)
+├── week2/                        # ML foundations & neural networks
+│   ├── Week2_day1_glossary.ipynb
+│   ├── week2_day1_ml_foundations.ipynb
+│   ├── Week2_day2.ipynb
+│   ├── Week2 day3 ethics_reflection.md
+│   ├── 01_neural_network_from_scratch.ipynb
+│   ├── 02_neural_network_from_scratch.ipynb
+│   ├── 03_nn_module.ipynb
+│   └── Week2 Day5.ipynb          # Diabetes classifier: PyTorch + ROC curve
+│
+├── week3/                        # Medical imaging — Coming soon
 └── ...
 ```
 
