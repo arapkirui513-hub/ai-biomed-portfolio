@@ -1,0 +1,5 @@
+PatientID,Glucose,HeartRate,OxygenSat
+P001,95,72,98
+P002,145,90,94
+P003,130,85,96
+P004,160,100,92
