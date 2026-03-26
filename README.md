@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kevin Kirui
+
 I am a biomedical engineer based in Kenya, self-studying AI and machine learning with a focus on healthcare applications. I am preparing for the **Stanmore Professional Certificate in AI for Biomedical Engineering**, and this portfolio documents everything I build along the way.
 
 My goal is to arrive at Stanmore already thinking and working like a junior Medical AI Engineer — not as a beginner.
@@ -11,7 +12,7 @@ My goal is to arrive at Stanmore already thinking and working like a junior Medi
 
 | Project | Description | Key Skills | Status |
 |--------|-------------|------------|--------|
-| [Chest X-Ray Classifier](https://github.com/arapkirui513-hub/chest-xray-classifier) | Binary classification of chest X-rays using MONAI and PyTorch on the NIH ChestX-ray14 dataset | PyTorch, MONAI, Transfer Learning, Grad-CAM | 🔜 Coming Week 3 |
+| [Chest X-Ray Classifier](https://github.com/arapkirui513-hub/chest-xray-classifier) | Binary classification of chest X-rays (Normal vs. Pneumonia) using MONAI and PyTorch. Two-phase transfer learning on DenseNet-121. Test AUC: 0.9086, Sensitivity: 0.992 | PyTorch, MONAI, DenseNet-121, Transfer Learning, AUC-ROC, Threshold Selection | ✅ Complete — Week 3 |
 | [Clinical Note Assistant](https://github.com/arapkirui513-hub/clinical-note-assistant) | Clinical note summariser using the OpenAI API with structured JSON output and a Streamlit UI | Prompt Engineering, OpenAI API, Streamlit | 🔜 Coming Week 5 |
 | [ECG Arrhythmia Detector](https://github.com/arapkirui513-hub/ecg-arrhythmia-detector) | Beat-level arrhythmia classification on the MIT-BIH database using signal processing and Random Forest | Signal Processing, wfdb, scikit-learn, SMOTE | 🔜 Coming Week 7 |
 
@@ -24,8 +25,9 @@ Skills I have actively used in this portfolio (not just read about):
 - **Python** — pandas, NumPy, matplotlib
 - **Machine Learning** — scikit-learn, train/test splits, evaluation metrics (AUC, F1, confusion matrix)
 - **Deep Learning** — PyTorch, nn.Module, training loops, BCEWithLogitsLoss
+- **Medical Imaging** — MONAI, DenseNet-121, transfer learning, AUC-ROC, threshold selection, error analysis
 - **Data Analysis** — EDA, summary statistics, visualisation, class imbalance handling
-- **Tools** — Jupyter Notebook, Git, GitHub, Anaconda
+- **Tools** — Jupyter Notebook, Git, GitHub, Anaconda, Kaggle
 
 *Growing weekly — check back as new projects are added.*
 
@@ -38,7 +40,7 @@ Skills I have actively used in this portfolio (not just read about):
 | [Python for Everybody (Coursera)](https://www.coursera.org/specializations/python) | Python foundations | ✅ Complete |
 | [PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | PyTorch fundamentals | ✅ Complete |
 | [fast.ai Practical Deep Learning](https://course.fast.ai/) | Deep learning | 🔄 In progress |
-| [MONAI Tutorials](https://monai.io/start.html) | Medical imaging AI | 🔜 Starting Week 3 |
+| [MONAI Tutorials](https://monai.io/start.html) | Medical imaging AI | ✅ Week 3 complete |
 
 ---
 
@@ -62,7 +64,9 @@ ai-biomed-portfolio/
 │   ├── 03_nn_module.ipynb
 │   └── Week2 Day5.ipynb          # Diabetes classifier: PyTorch + ROC curve
 │
-├── week3/                        # Medical imaging — Coming soon
+├── week3/ → chest-xray-classifier (dedicated repo)
+│   └── https://github.com/arapkirui513-hub/chest-xray-classifier
+│
 └── ...
 ```
 
