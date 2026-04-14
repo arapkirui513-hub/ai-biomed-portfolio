@@ -5,15 +5,16 @@
 Biomedical AI developer with a foundation in Biomedical Engineering from KMTC. Hands-on experience at Kenya's largest referral hospitals (KNH & KTRH), building AI solutions for healthcare—from arrhythmia detection to clinical NLP. Currently focused on data engineering and the Nairobi tech ecosystem, preparing for Stanmore AI for Biomedical Engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-arapkirui513--hub-blue?logo=github)](https://github.com/arapkirui513-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--kirui-blue?logo=linkedin)](https://linkedin.com/in/kevin-kirui-ba9593275)
 [![Email](https://img.shields.io/badge/Email-arapkirui513%40gmail.com-red?logo=gmail)](mailto:arapkirui513@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arapkirui513-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+[![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arapkirui513-hub&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arapkirui513-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arapkirui513-hub&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -100,6 +101,7 @@ Clinical AI deployment requires:
 ## Contact
 
 - **GitHub:** [github.com/arapkirui513-hub](https://github.com/arapkirui513-hub)
+- **LinkedIn:** [linkedin.com/in/kevin-kirui-ba9593275](https://linkedin.com/in/kevin-kirui-ba9593275)
 - **Email:** arapkirui513@gmail.com
 
 ---
