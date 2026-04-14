@@ -9,9 +9,17 @@ Biomedical AI developer with a foundation in Biomedical Engineering from KMTC. H
 
 ---
 
+## 📊 GitHub Stats
+
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arapkirui513-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arapkirui513-hub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+---
+
 ## Projects
 
-### 1. [ECG Arrhythmia Detector](https://github.com/arapkirui513-hub/ecg-arrhythmia-detector)
+### 1. [🫀 ECG Arrhythmia Detector](https://github.com/arapkirui513-hub/ecg-arrhythmia-detector)
 
 **End-to-end arrhythmia classification using deep learning and classical ML.**
 
@@ -19,12 +27,13 @@ Biomedical AI developer with a foundation in Biomedical Engineering from KMTC. H
 - Implemented bandpass filtering, R-peak detection (97.3% accuracy), beat segmentation
 - Compared Random Forest (F1: 0.996) vs 1D CNN (F1: 0.999)
 - CNN outperformed RF on minority class (Atrial Premature Beats: 0.933 vs 0.923)
+- High sensitivity on atrial premature beats—critical for AFib screening
 
 **Tech:** Python, PyTorch, Scikit-learn, WFDB, NumPy, Matplotlib
 
 ---
 
-### 2. [Chest X-Ray Pneumonia Classifier](https://github.com/arapkirui513-hub/chest-xray-classifier)
+### 2. [🫁 Chest X-Ray Pneumonia Classifier](https://github.com/arapkirui513-hub/chest-xray-classifier)
 
 **Binary classification using transfer learning with DenseNet-121 and Grad-CAM interpretability.**
 
@@ -37,14 +46,14 @@ Biomedical AI developer with a foundation in Biomedical Engineering from KMTC. H
 
 ---
 
-### 3. [Clinical Note Assistant](https://github.com/arapkirui513-hub/clinical-note-assistant)
+### 3. [📋 Clinical Note Assistant](https://github.com/arapkirui513-hub/clinical-note-assistant)
 
 **NLP-powered clinical note summarisation with Streamlit interface.**
 
 - Extracts chief complaint, diagnosis, and plan from free-text clinical notes
 - GPT-4o-mini with prompt engineering for structured extraction
 - Manual validation identified 4 failure patterns (pre-op diagnosis copying, data omission)
-- Implemented safety disclaimer and per-output caveat
+- Implemented safety disclaimer and per-output caveat for regulatory compliance
 
 **Tech:** Python, Streamlit, OpenAI API
 
