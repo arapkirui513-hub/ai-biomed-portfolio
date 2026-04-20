@@ -2,7 +2,7 @@
 
 > **Bridging clinical engineering and intelligent systems.**
 
-Biomedical AI developer with a foundation in Biomedical Engineering from KMTC. Hands-on experience at Kenya's largest referral hospitals (KNH & KTRH), building AI solutions for healthcare—from arrhythmia detection to clinical NLP. Currently focused on data engineering and the Nairobi tech ecosystem, preparing for Stanmore AI for Biomedical Engineering.
+Biomedical AI developer with a foundation in Biomedical Engineering. Hands-on experience at the largest referral hospitals, building AI solutions for healthcare—from arrhythmia detection to clinical NLP. Currently focused on data engineering and preparing for Stanmore AI for Biomedical Engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-arapkirui513--hub-blue?logo=github)](https://github.com/arapkirui513-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--kirui-blue?logo=linkedin)](https://linkedin.com/in/kevin-kirui-ba9593275)
